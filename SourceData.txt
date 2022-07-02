@@ -1,0 +1,5 @@
+		Imran Khan(PTI)  Nawaz Sharif    Bilawal(PPP)
+Province Code   Votes		 (PML-N)Votes    Votes	         Total Votes
+1               5284453          5658847         70046           11013346
+2               2465781          2455428         61894           4983103
+3               2790648          2644525         60287           5495460
